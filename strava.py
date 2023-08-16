@@ -1,12 +1,7 @@
-# from __future__ import print_statement
 import time
 import os
 import json
 import requests
-#import swagger_client
-#from swagger_client.rest import ApiException
-from pprint import pprint
-
 from dotenv import load_dotenv
 load_dotenv()
 
